@@ -4,6 +4,10 @@ A modern, responsive **Currency Converter** application built with **React**, **
 The app features a clean glassmorphism UI, currency swapping, and live conversion using a public currency API.
 
 ---
+<p align="center">
+  <img src="./assets/preview.png" alt="Currency Converter Preview"/>
+</p>
+---
 
 ## 🔌 API Used
 This project uses the free currency exchange API provided by fawazahmed0/currency-api.
