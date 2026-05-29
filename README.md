@@ -5,9 +5,9 @@ The app features a clean glassmorphism UI, currency swapping, and live conversio
 
 ---
 <p align="center">
-  <img src="./assets/preview.png" alt="Currency Converter Preview"/>
+  <img src="./src/assets/Screenshot.png" alt="Currency Converter Preview"/>
 </p>
----
+
 
 ## 🔌 API Used
 This project uses the free currency exchange API provided by fawazahmed0/currency-api.
